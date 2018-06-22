@@ -9,7 +9,7 @@ The best performance in each row is in **bold font**, and the second highest is 
 |            |0.10| 21.16 | 14.59  | 19.00 | 20.95| 21.10    |`21.82`     |**23.04**|
 |	           |0.25|`27.77`| 25.91  | 26.39 | 23.54| 24.31    |26.04       |**27.88**|
 ||||||||||
-|Parrot      |0.01| 11.44 | 5.11   | 5.09  | 17.70| 17.63    |`18.18`     |**18.18**|
+|Parrots     |0.01| 11.44 | 5.11   | 5.09  | 17.70| 17.63    |`18.18`     |**18.18**|
 |            |0.04| 18.88 | 10.59  | 15.78 | 20.37| 20.27    |`21.53`     |**21.59**|
 |            |0.10| 23.13 | 14.14  | 21.64 | 22.13| 22.63    |`23.68`     |**25.03**|
 |            |0.25| 27.17 | 26.53  | 26.86 | 24.48| 25.59    |`27.26`     |**28.92**|
@@ -67,7 +67,7 @@ The best performance in each row is in **bold font**, and the second highest is 
 # 2. Reconstruction image details compared with ReconNet. #
 
 ![Monarch](/reconstruction_results/Monarch.png)
-![Parrot](/reconstruction_results/Parrot.png)
+![Parrots](/reconstruction_results/Parrots.png)
 ![Barbara](/reconstruction_results/Barbara.png)
 ![Fingerprint](/reconstruction_results/Fingerprint.png)
 ![Flinstones](/reconstruction_results/Flinstones.png)

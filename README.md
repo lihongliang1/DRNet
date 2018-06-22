@@ -4,7 +4,7 @@ The best performance in each row is in **bold font**, and the second highest is 
 
 | Image Name | MR | TVAL3 | NLR-CS | D-AMP | SDA  | ReconNet | DRNet-D(.) | DRNet |
 | :-----:    |:--:|:----: |:----:  |:----: |:----:|:----:    |:----:      |:----: |
-|  Monarch   |0.01| 11.09 | 6.38   | 6.20  |15.31 | 15.39    |`15.51`     |**15.53**|
+|Monarch     |0.01| 11.09 | 6.38   | 6.20  |15.31 | 15.39    |`15.51`     |**15.53**|
 |            |0.04| 16.73 | 11.62  | 14.57 |18.09 | 18.19    |`18.92`     |**19.28**|
 |            |0.10| 21.16 | 14.59  | 19.00 | 20.95| 21.10    |`21.82`     |**23.04**|
 |	           |0.25|`27.77`| 25.91  | 26.39 | 23.54| 24.31    |26.04       |**27.88**|
@@ -63,3 +63,27 @@ The best performance in each row is in **bold font**, and the second highest is 
 |             |0.04|18.39 | 10.58  | 15.49 | 19.96| 19.99    |`20.79`     |**21.08**|
 |             |0.10|22.84 | 14.19  | 21.14 | 22.43| 22.68    |`23.42`     |**24.52**|
 |             |0.25|27.84 | 28.05  |`28.17`| 24.72| 25.54    |27.35       |**28.71**|
+
+# 2. Reconstruction image details compared with ReconNet. #
+
+![Monarch](/reconstruction_result/Monarch.png)
+![Parrot](/reconstruction_result/Parrot.png)
+![Barbara](/reconstruction_result/Barbara.png)
+![Fingerprint](/reconstruction_result/Fingerprint.png)
+![Flinstones](/reconstruction_result/Flinstones.png)
+![Lena_wo](/reconstruction_result/Lena_wo.png)
+![Boats](/reconstruction_result/Boats.png)
+![Cameraman](/reconstruction_result/Cameraman.png)
+![Foreman](/reconstruction_result/Foreman.png)
+![House](/reconstruction_result/House.png)
+![Peppers](/reconstruction_result/Peppers.png)
+
+# 3. Results for ImageNet dataset. #
+
+High resolution images
+
+![HighResolution](/reconstruction_result/HighResolution.png)
+
+Complex texture images
+
+![ComplexTexture](/reconstruction_result/ComplexTexture.png)

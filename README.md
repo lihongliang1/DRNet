@@ -1,5 +1,7 @@
 # 1. The PSNR for all 11 test images #
+
 The best performance in each row is in **bold font**, and the second highest is `gray`. The **Mean PSNR** is calculated from all 11 test images.
+
 | Image Name | MR | TVAL3 | NLR-CS | D-AMP | SDA  | ReconNet | DRNet-D(.) | DRNet |
 | :-----:    |:--:|:----: |:----:  |:----: |:----:|:----:    |:----:      |:----: |
 |  Monarch   |0.01| 11.09 | 6.38   | 6.20  |15.31 | 15.39    |`15.51`     |**15.53**|

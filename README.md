@@ -66,24 +66,24 @@ The best performance in each row is in **bold font**, and the second highest is 
 
 # 2. Reconstruction image details compared with ReconNet. #
 
-![Monarch](/reconstruction_result/Monarch.png)
-![Parrot](/reconstruction_result/Parrot.png)
-![Barbara](/reconstruction_result/Barbara.png)
-![Fingerprint](/reconstruction_result/Fingerprint.png)
-![Flinstones](/reconstruction_result/Flinstones.png)
-![Lena_wo](/reconstruction_result/Lena_wo.png)
-![Boats](/reconstruction_result/Boats.png)
-![Cameraman](/reconstruction_result/Cameraman.png)
-![Foreman](/reconstruction_result/Foreman.png)
-![House](/reconstruction_result/House.png)
-![Peppers](/reconstruction_result/Peppers.png)
+![Monarch](/reconstruction_results/Monarch.png)
+![Parrot](/reconstruction_results/Parrot.png)
+![Barbara](/reconstruction_results/Barbara.png)
+![Fingerprint](/reconstruction_results/Fingerprint.png)
+![Flinstones](/reconstruction_results/Flinstones.png)
+![Lena_wo](/reconstruction_results/Lena_wo.png)
+![Boats](/reconstruction_results/Boats.png)
+![Cameraman](/reconstruction_results/Cameraman.png)
+![Foreman](/reconstruction_results/Foreman.png)
+![House](/reconstruction_results/House.png)
+![Peppers](/reconstruction_results/Peppers.png)
 
 # 3. Results for ImageNet dataset. #
 
 High resolution images
 
-![HighResolution](/reconstruction_result/HighResolution.png)
+![HighResolution](/reconstruction_results/HighResolution.png)
 
 Complex texture images
 
-![ComplexTexture](/reconstruction_result/ComplexTexture.png)
+![ComplexTexture](/reconstruction_results/ComplexTexture.png)

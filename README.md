@@ -66,16 +66,48 @@ The best performance in each row is in **bold font**, and the second highest is 
 
 # 2. Reconstruction image details compared with ReconNet. #
 
+Monarch
+
 ![Monarch](/reconstruction_results/Monarch.png)
+
+Parrots
+
 ![Parrots](/reconstruction_results/Parrots.png)
+
+Barbara
+
 ![Barbara](/reconstruction_results/Barbara.png)
+
+Fingerprint
+
 ![Fingerprint](/reconstruction_results/Fingerprint.png)
+
+Flinstones
+
 ![Flinstones](/reconstruction_results/Flinstones.png)
+
+Lena
+
 ![Lena_wo](/reconstruction_results/Lena_wo.png)
+
+Boats
+
 ![Boats](/reconstruction_results/Boats.png)
+
+Cameraman
+
 ![Cameraman](/reconstruction_results/Cameraman.png)
+
+Foreman
+
 ![Foreman](/reconstruction_results/Foreman.png)
+
+House
+
 ![House](/reconstruction_results/House.png)
+
+Peppers
+
 ![Peppers](/reconstruction_results/Peppers.png)
 
 # 3. Results for ImageNet dataset. #
